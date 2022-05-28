@@ -10,16 +10,14 @@ int main() {
         Main Code
     */
     using namespace std; // Uses namespace std (for it being easier to use std::cout)
-    cout << "TicTacToe in C++ \n"; // Prints text to the screen
+    cout << " TicTacToe in C++ \n"; // Prints text to the screen
     sleep(2); // Sleeps for 2 seconds
-    cout << "Starting game... \n"; // Prints text to the screen
+    cout << " Starting game... \n"; // Prints text to the screen
     sleep(3); // Sleeps for 3 seconds
-    /*
-    cout << "Board \n"; // Prints text to the screen
-    cout << "O | O | O \n"; // Prints text to the screen
-    cout << "O | O | O \n"; // Prints text to the screen
-    cout << "O | O | O \n"; // Prints text to the screen
-    */
+    cout << " Board \n"; // Prints text to the screen
+    cout << " O | O | O \n"; // Prints text to the screen
+    cout << " O | O | O \n"; // Prints text to the screen
+    cout << " O | O | O \n"; // Prints text to the screen
 
     // think
 
