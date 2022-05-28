@@ -3,7 +3,7 @@
 int main() {
     using namespace std;
     cout << "TicTacToe in C++ \n";
-    sleep(2); 
+    sleep(2);
     cout << "Starting game... \n";
     sleep(3);
     cout << "Board \n";
