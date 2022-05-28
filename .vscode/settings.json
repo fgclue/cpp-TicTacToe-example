@@ -3,6 +3,7 @@
         "*.setupdesktop": "powershell",
         "*.eps1": "powershell",
         "iostream": "cpp",
+        "*.semicolon": "erlang",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
